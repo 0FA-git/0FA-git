@@ -2,7 +2,7 @@
 
 <p align="center">
 	<b>You can follow me here</b><br>
-	<a href="https://github.com/TheOFA">Github</a> |
+	<a href="https://github.com/0FA-git">Github</a> |
 	<a href="https://twitter.com/ehcmoa">Twitter</a> 
 	<br><br>
 	<img src="https://media.giphy.com/media/C8A8UNursWU8NUCoDk/giphy.gif" />
