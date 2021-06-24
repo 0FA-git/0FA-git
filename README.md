@@ -1,7 +1,7 @@
 <h1 align="center">0FA</h1>
 
 <p align="center">
-	<b>You can follow me here</b><br>
+	<b>You can follow me here:</b><br>
 	<a href="https://github.com/0FA-git">Github</a> |
 	<a href="https://twitter.com/ehcmoa">Twitter</a> 
 	<br><br>
