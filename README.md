@@ -11,7 +11,7 @@
 #
 ```diff
 - French developper.
-- Learn Python, Java-Script
+- Learn Python, C
 ```
 #
 <h1 align="center">LANGUAGE</h1>
