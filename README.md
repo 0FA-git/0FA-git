@@ -10,8 +10,9 @@
 
 #
 ```diff
+- Student at Epitech Montpellier
 - French developper.
-- Learn Python, C
+- Learning Python, C, Javascript, React
 ```
 #
 <h1 align="center">LANGUAGE</h1>
