@@ -3,7 +3,6 @@
 <p align="center">
 	<b>You can follow me here:</b><br>
 	<a href="https://github.com/Rodzpm">Github</a> |
-	<a href="https://twitter.com/ehcmoa">Twitter</a> 
 	<br><br>
 	<img src="https://media.giphy.com/media/C8A8UNursWU8NUCoDk/giphy.gif" />
 </p>
