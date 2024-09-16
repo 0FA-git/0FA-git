@@ -1,10 +1,12 @@
-# 👋 Hello, I'm [Allan Leherpeux]!
+# 👋 Hello, I'm Allan Leherpeux !
 
 🎓 Étudiant en 3ème année à **Epitech Montpellier**, je suis passionné par la musique et le développement de logiciels.
 
 ## 🎶 Ce qui m'anime :
 - **Développement de logiciels pour la production musicale** 🎧 (VST, plugins, etc.)
 - **Projets hardware** 🛠️ : création de boîtes à rythme et synthétiseurs.
+- **Développement de jeux vidéos** (Godot, Unity)
+- **Application Web**
 
 Je combine ma passion pour la musique et mes compétences en programmation pour explorer de nouvelles façons de créer et d'innover dans le domaine audio.
 
