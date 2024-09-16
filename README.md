@@ -1,35 +1,13 @@
-<h1 align="center">Rodz</h1>
+# 👋 Hello, I'm [Ton Nom]!
 
-<p align="center">
-	<b>You can follow me here:</b><br>
-	<a href="https://github.com/Rodzpm">Github</a> |
-	<br><br>
-	<img src="https://media.giphy.com/media/C8A8UNursWU8NUCoDk/giphy.gif" />
-</p>
+🎓 Étudiant en 3ème année à **Epitech Montpellier**, je suis passionné par la musique et le développement de logiciels.
 
-#
-```diff
-- Student at Epitech Montpellier
-- French developper.
-- Learning Python, C, Javascript, React
-```
-#
-<h1 align="center">LANGUAGE</h1>
+## 🎶 Ce qui m'anime :
+- **Développement de logiciels pour la production musicale** 🎧 (VST, plugins, etc.)
+- **Projets hardware** 🛠️ : création de boîtes à rythme et synthétiseurs.
 
-<p align="center"> 
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp; |
-  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>&nbsp; |
-  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">
-</p>
+Je combine ma passion pour la musique et mes compétences en programmation pour explorer de nouvelles façons de créer et d'innover dans le domaine audio.
 
-#
-<h1 align="center">STATS</h1>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Rodzpm?style=social">
-  <img src="https://img.shields.io/github/stars/Rodzpm?style=social">
-  <img src="https://komarev.com/ghpvc/?username=Rodzpm&color=blue">
-</p>
+🚀 Toujours curieux d'apprendre et d'expérimenter avec de nouvelles technologies !
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodzpm&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Rodz's stats" /> </p>
-
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodzpm&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></p>
+📫 N'hésite pas à me contacter pour discuter ou collaborer sur des projets musicaux et technologiques.
